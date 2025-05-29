@@ -59,7 +59,7 @@ This project simulates firm behavior in a competitive market using **genetic alg
 
 ## 📁 File
 
-- `BİL404.ipynb`: Jupyter notebook containing the full implementation, parameter definitions, simulation, and plots.
+- `Genetic_Algorithm.ipynb`: Jupyter notebook containing the full implementation, parameter definitions, simulation, and plots.
 
 ---
 
@@ -72,7 +72,7 @@ This project simulates firm behavior in a competitive market using **genetic alg
 
 2. Open the notebook:
    ```bash
-   jupyter notebook BİL404.ipynb
+   jupyter notebook Genetic_Algorithm.ipynb
    ```
 
 3. Replace `Y` and `Z` with your student ID digits for personalized parameters.
