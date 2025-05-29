@@ -75,7 +75,7 @@ This project simulates firm behavior in a competitive market using **genetic alg
    jupyter notebook Genetic_Algorithm.ipynb
    ```
 
-3. Replace `Y` and `Z` with your student ID digits for personalized parameters.
+3. Replace Y and Z with custom numeric values to adjust simulation parameters.
 4. Run all cells to simulate the firm learning behavior.
 
 ---
