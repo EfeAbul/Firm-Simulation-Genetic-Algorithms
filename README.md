@@ -1,11 +1,11 @@
 
-# 🧬 Firm Behavior Simulation using Genetic Algorithms
+# Firm Behavior Simulation using Genetic Algorithms
 
 This project simulates firm behavior in a competitive market using **genetic algorithms**. It models how firms iteratively adjust their production quantities to maximize profit, based on demand conditions and interactions with other firms. This is developed as part of an academic course project.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 - **Goal**: Simulate and analyze how firms learn optimal production levels through genetic evolution.
 - **Approach**:
@@ -15,7 +15,7 @@ This project simulates firm behavior in a competitive market using **genetic alg
 
 ---
 
-## ⚙️ Key Features
+##  Key Features
 
 - **Number of firms**: 30
 - **Chromosome length**: 10-bit binary string
@@ -30,7 +30,7 @@ This project simulates firm behavior in a competitive market using **genetic alg
 
 ---
 
-## 🔁 Genetic Algorithm Workflow
+## Genetic Algorithm Workflow
 
 1. **Initialize population** with binary strings (firms).
 2. **Decode** each chromosome into a production quantity.
@@ -41,7 +41,7 @@ This project simulates firm behavior in a competitive market using **genetic alg
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 - Mean production quantity over time
 - Mean profit per firm over time
@@ -49,7 +49,7 @@ This project simulates firm behavior in a competitive market using **genetic alg
 
 ---
 
-## 💡 Insights
+##  Insights
 
 - The algorithm reflects how decentralized firms can adapt production strategies over time.
 - Different `b` values (competition vs complementarity) lead to different equilibrium outcomes.
@@ -57,13 +57,13 @@ This project simulates firm behavior in a competitive market using **genetic alg
 
 ---
 
-## 📁 File
+##  File
 
 - `Genetic_Algorithm.ipynb`: Jupyter notebook containing the full implementation, parameter definitions, simulation, and plots.
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Install required libraries:
    ```bash
@@ -80,7 +80,7 @@ This project simulates firm behavior in a competitive market using **genetic alg
 
 ---
 
-## 📚 Requirements
+##  Requirements
 
 - Python 3.x
 - NumPy
